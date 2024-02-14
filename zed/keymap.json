@@ -1,0 +1,8 @@
+[
+  {
+    "context": "Editor",
+    "bindings": {
+      "cmd-/": ["editor::ToggleComments", { "advance_downwards": true }]
+    }
+  }
+]
